@@ -1,0 +1,9 @@
+{
+    "name": "zdanek/QRcode",
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
